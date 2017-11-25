@@ -1,0 +1,55 @@
+[Icon Theme]
+Name=Material W
+Comment=Material Design Inspired Product Icons
+Inherits=inspiration from the icons in Windows OS and Google's Material Design
+
+Example=x-directory-normal
+
+Directories=actions,apps,devices,mimetypes,places,status,emblems
+
+[actions]
+Size=48
+Context=Actions
+Type=Scalable
+MinSize=22
+MaxSize=64
+
+[apps]
+Size=48
+Context=Applications
+Type=Scalable
+MinSize=16
+MaxSize=256
+
+[emblems]
+Size=24
+Context=Emblems
+Type=Scalable
+
+[devices]
+Size=48
+Context=Devices
+Type=Scalable
+MinSize=16
+MaxSize=256
+
+[mimetypes]
+Size=48
+Context=MimeTypes
+Type=Scalable
+MinSize=16
+MaxSize=256
+
+[places]
+Size=48
+Context=Places
+Type=Scalable
+MinSize=16
+MaxSize=256
+
+[status]
+Size=48
+Context=Status
+Type=Scalable
+MinSize=16
+MaxSize=512
